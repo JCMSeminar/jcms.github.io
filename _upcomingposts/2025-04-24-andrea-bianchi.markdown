@@ -7,7 +7,7 @@ categories:
 
 # April 24th, 2025: Andrea Bianchi
 
-On Thursday, April 24th, 2025 from 15.30 am to 16.30 we will host a seminar by **Andrea Bianchi** from **Université de Montréal**. 
+On Thursday, April 24th, 2025 from 11.00 am to 12.00 we will host a seminar by **Andrea Bianchi** from **Université de Montréal**. 
 
 ## Title
 
