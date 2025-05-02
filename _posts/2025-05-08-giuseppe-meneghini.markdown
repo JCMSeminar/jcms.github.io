@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "May 8th, 2025: Giuseppe Meneghini"
-date: 2025-04-29 10:30:01 +0100
+date: 2025-04-30 10:30:01 +0100
 categories:
 ---
 
