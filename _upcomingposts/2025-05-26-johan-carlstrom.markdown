@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "May 26th, 2025: Thomas Bland"
-date: 2025-05-20 08:30:01 +0500
+title: "May 26th, 2025: Johan Carlström"
+date: 2025-05-20 10:30:01 +0500
 categories:
 ---
 
-# May 23rd, 2025: Thomas Bland
+# May 26th, 2025: Johan Carlström
 
 On Monday, May 26th, 2025 from 11.00 am to 12.00 we will host a seminar by **Johan Carlström** from **KTH**. 
 

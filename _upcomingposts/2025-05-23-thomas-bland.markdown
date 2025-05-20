@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "May 23rd, 2025: Thomas Bland"
-date: 2025-05-20 10:30:01 +0500
+date: 2025-05-20 08:30:01 +0500
 categories:
 ---
 
