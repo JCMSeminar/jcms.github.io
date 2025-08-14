@@ -34,13 +34,11 @@ If you wish to join the mailing list, don't hesitate to [contact us](#contacts).
 
 ## When
 
-The seminars take place **every two Mondays**, **from 11 am to 12 am**. 
+The seminars take place on announced **Mondays**, **from 11 am to 12 am**. 
 
 ### Fika
 
-Before the seminar, **from 10.30 am to 11 am**, we gather for [Fika](https://www.swedishfood.com/fika).
-
-Fika is a typical Swedish tradition, an informal meeting to enjoy together **coffee and sweets**. 
+Before the seminar, **from 10.45 am to 11 am**, we gather for a coffee/tea with the speaker.
 <br>
 We encourage you to join and bring your own mug/reusable glass if you have one!
 
@@ -53,12 +51,12 @@ KTH: Yuliya Bilinskaya ([yuliyab@kth.se](mailto:yuliyab@kth.se)); Soumi Ghosh ([
 
 
 Nordita:
-Sreenath K. Manikandan ([sreenath.k.manikandan@su.se](mailto:sreenath.k.manikandan@su.se))
+Sreenath K. Manikandan ([sreenath.k.manikandan@su.se](mailto:sreenath.k.manikandan@su.se)); Yuefei Liu ([yuefei@kth.se](mailto:yuefei@kth.se))
 
 SU: 
-Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se)); Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se))
+Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se))
  
  
 ### Former members of the JCMS organising team
 
-Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).
+Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se)); Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).
