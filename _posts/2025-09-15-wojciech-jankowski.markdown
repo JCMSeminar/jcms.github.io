@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "May 23rd, 2025: Thomas Bland"
+title: "September 15th, 2025: Wojciech Jankowski"
 date: 2025-08-13 08:30:01 +0500
 categories:
 ---
