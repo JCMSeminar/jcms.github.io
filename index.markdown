@@ -54,7 +54,8 @@ Nordita:
 Sreenath K. Manikandan ([sreenath.k.manikandan@su.se](mailto:sreenath.k.manikandan@su.se)); Yuefei Liu ([yuefei@kth.se](mailto:yuefei@kth.se))
 
 SU: 
-Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se))
+Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se));
+Caio Naves ([caio.naves@fysik.su.se](mailto:caio.naves@fysik.su.se))
  
  
 ### Former members of the JCMS organising team
