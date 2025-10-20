@@ -7,7 +7,7 @@ categories:
 
 # September 22th, 2025: Anish Acharya 
 
-On Monday, September 22th, 2025 from 11.00 am to 12.00 we will host a seminar by **Anish Achary** from **Tata Institute of Fundamental Research**
+On Monday, September 22th, 2025 from 11.00 am to 12.00 we will host a seminar by **Anish Acharya** from **Tata Institute of Fundamental Research**
 
 ## Title
 Manipulating Phases in Many-Body Interacting Systems using Subsystem Resetting
