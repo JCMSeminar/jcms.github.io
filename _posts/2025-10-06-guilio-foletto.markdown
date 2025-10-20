@@ -1,7 +1,7 @@
 ---
 layout: default
 title: " October 6th, 2025: Giulio Foletto"
-date: 2025-09-11 08:30:01 +0500
+date: 2025-10-02 08:30:01 +0500
 categories:
 ---
 

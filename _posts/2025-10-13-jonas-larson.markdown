@@ -1,7 +1,7 @@
 ---
 layout: default
 title: " October 13th, 2025: Jonas Larson"
-date: 2025-09-12 08:30:01 +0500
+date: 2025-10-12 08:30:01 +0500
 categories:
 ---
 

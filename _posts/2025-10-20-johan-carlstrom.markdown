@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "October 20th, 2025: Johan Carlström"
-date: 2025-09-24 10:30:01 +0500
+date: 2025-10-18 10:30:01 +0500
 categories:
 ---
 
