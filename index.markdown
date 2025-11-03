@@ -8,7 +8,7 @@ layout: default
 
 # The JCMS series
 
-The Joint Condensed Matter Seminar (JCMS) series hosts **biweekly seminars** featuring talks with local and international guests,
+The Joint Condensed Matter Seminar (JCMS) series hosts talks with local and international guests,
     covering a wide spectrum of topics in **condensed matter physics**.
 
 The JCMS series is organised by KTH -- Royal Insitute of Technology, Nordita -- Nordic Institute for Theoretical Physics, and SU -- Stockholm University.
@@ -50,14 +50,11 @@ We encourage you to join and bring your own mug/reusable glass if you have one!
 KTH: Yuliya Bilinskaya ([yuliyab@kth.se](mailto:yuliyab@kth.se)); Soumi Ghosh ([soumig@kth.se](mailto:soumig@kth.se))
 
 
-Nordita:
-Sreenath K. Manikandan ([sreenath.k.manikandan@su.se](mailto:sreenath.k.manikandan@su.se)); Yuefei Liu ([yuefei@kth.se](mailto:yuefei@kth.se))
+Nordita: Yuefei Liu ([yuefei@kth.se](mailto:yuefei@kth.se))
 
-SU: 
-Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se));
-Caio Naves ([caio.naves@fysik.su.se](mailto:caio.naves@fysik.su.se))
+SU: Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se)); Caio Naves ([caio.naves@fysik.su.se](mailto:caio.naves@fysik.su.se))
  
  
 ### Former members of the JCMS organising team
 
-Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se)); Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).
+Sreenath K. Manikandan ([sreenath.k.manikandan@su.se](mailto:sreenath.k.manikandan@su.se)); Lukas Rødland ([lukas.rodland@fysik.su.se](mailto:lukas.rodland@fysik.su.se)); Claudia Artiaco ([artiaco@kth.se](mailto:artiaco@kth.se)); Joris Schaltegger ([joriss@kth.se](mailto:joriss@kth.se)); Christoph Fleckenstein ([cfle@kth.se](mailto:cfle@kth.se)); Miguel Martínez ([mfmm@kth.se](mailto:mfmm@kth.se)); Maria Hermanns ([maria.hermanns@fysik.su.se](mailto:maria.hermanns@fysik.su.se)).
