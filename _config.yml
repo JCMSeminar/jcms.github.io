@@ -23,8 +23,8 @@ email: artiaco@kth.se
 description: |-
     The Joint Condensed Matter Seminar (JCMS) series is organised by KTH Royal Insitute of Technology, Nordita, and Stockholm University.
 # >- # this means to ignore newlines until "baseurl:"
-baseurl: "/jcms.github.io" # the subpath of your site, e.g. /blog
-calurl: "/jcms.github.io/fullCalendar.html" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+calurl: "/fullCalendar.html" # the subpath of your site, e.g. /blog
 permalink: "/:year/:month/:day/:title:output_ext"
 url: "https://jcmseminar.github.io"
 github_username: cartiaco
