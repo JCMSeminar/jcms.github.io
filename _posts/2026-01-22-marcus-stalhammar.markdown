@@ -23,6 +23,7 @@ I aim to present this in a self-contained way, and will hence provide a backgrou
 ## References
 
 [1] A.G. Fonseca, S. Vaidya, T. Christensen, M.C. Rechtsman, T.L. Hughes, and M. Soljačic, Weyl points on non-orientable manifolds, PRL 132 266601 (2024).
+
 [2] T. Douwes, and M. Stålhammar, Twisted (co)homology of non-orientable Weyl semimetals, arXiv:2511.22303.
 
 
