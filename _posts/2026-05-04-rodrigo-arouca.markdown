@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "May 4th, 2026: Hannah Lange"
+title: "May 4th, 2026: Rodrigo Arouca"
 date: 2026-04-20 06:00:01 +0100
 categories:
 ---
