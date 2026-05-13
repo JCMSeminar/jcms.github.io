@@ -19,8 +19,6 @@ Topological phenomena are common in many quantum and classical wave systems, wit
 
 ## References
 
-[1] D.-H.-M. Nguyen et al., [*ACS Photonics* 13, 5, 1399-1406 (2026)](https://doi.org/10.1021/acsphotonics.5c02664),
-
-[2] D.-H.-M. Nguyen et al., [PRL **131**, 053602 (2023)](https://doi.org/10.1103/PhysRevLett.131.053602),
-
-[3] N. D. Lê et al., [arXiv:2507.11983 (2026)](https://doi.org/10.48550/arXiv.2507.11983).
+- [1] D.-H.-M. Nguyen et al., [*ACS Photonics* 13, 5, 1399-1406 (2026)](https://doi.org/10.1021/acsphotonics.5c02664),
+- [2] D.-H.-M. Nguyen et al., [PRL **131**, 053602 (2023)](https://doi.org/10.1103/PhysRevLett.131.053602),
+- [3] N. D. Lê et al., [arXiv:2507.11983 (2026)](https://doi.org/10.48550/arXiv.2507.11983).
