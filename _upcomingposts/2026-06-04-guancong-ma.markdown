@@ -23,4 +23,4 @@ The condition of exceptional deficiency can be reached in a large variety of sys
 
 Zhen Li, Xulong Wang, Rundong Cai, Kenji Shimomura, Congwei Lu, Zhesen Yang, Masatoshi Sato, Guancong Ma,
 “Exceptional deficiency of non-Hermitian systems,”
-[**Nature Physics** (2026)](https://doi.org/10.1038/s41567-026-03259-7).
+[*Nat. Phys.* (2026)](https://doi.org/10.1038/s41567-026-03259-7).
