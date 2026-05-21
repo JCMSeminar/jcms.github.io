@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "June 4th, 2026: Guancong Ma"
-date: 2026-04-20 06:00:01 +0100
+date: 2026-05-20 06:00:01 +0100
 categories:
 ---
 

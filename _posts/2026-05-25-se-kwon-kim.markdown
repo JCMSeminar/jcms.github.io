@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "May 25th, 2026: Se Kwon Kim"
-date: 2026-04-19 06:00:01 +0100
+date: 2026-05-20 06:00:01 +0100
 categories:
 ---
 
