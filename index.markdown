@@ -34,11 +34,11 @@ If you wish to join the mailing list, don't hesitate to [contact us](#contacts).
 
 ## When
 
-The seminars take place on announced **Mondays**, **from 11 am to 12 am**. 
+The seminars take place on announced **Mondays**, **from 10.30 am to 11.30 am**. 
 
 ### Fika
 
-Before the seminar, **from 10.45 am to 11 am**, we gather for a coffee/tea with the speaker.
+Before the seminar, **from 10.15 am to 10.30 am**, we gather for a coffee/tea with the speaker.
 <br>
 We encourage you to join and bring your own mug/reusable glass if you have one!
 
