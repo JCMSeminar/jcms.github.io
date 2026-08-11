@@ -49,7 +49,7 @@ We encourage you to join and bring your own mug/reusable glass if you have one!
 
 KTH: Yuliya Bilinskaya ([yuliyab@kth.se](mailto:yuliyab@kth.se)); Soumi Ghosh ([soumig@kth.se](mailto:soumig@kth.se))
 
-Nordita: contact us if you are from Nordita and would like to be a coorganizer
+Nordita: Raul Perea-Causin ([raul.perea.causin@su.se](mailto:raul.perea.causin@su.se))
 
 SU: Lukas König ([lukas.konig@fysik.su.se](mailto:lukas.konig@fysik.su.se)); Caio Naves ([caio.naves@fysik.su.se](mailto:caio.naves@fysik.su.se))
  
