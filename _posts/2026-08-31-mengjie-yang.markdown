@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "August 31st, 2026: Mengjie Yang"
-date: 2026-08-24 14:00:01 +0100
+date: 2026-08-24 13:00:01 +0100
 categories:
 ---
 

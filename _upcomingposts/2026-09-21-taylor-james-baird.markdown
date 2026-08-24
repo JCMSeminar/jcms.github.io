@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "September 21st, 2026: Taylor James Baird"
-date: 2026-08-24 14:00:01 +0100
+date: 2026-08-24 13:00:01 +0100
 categories:
 ---
 
